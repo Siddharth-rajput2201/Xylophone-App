@@ -1,6 +1,1 @@
-
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/18-CXGQ8mOCwJf1ZETrgOcdbC_GSaliHo/preview" frameborder="0" allowfullscreen="true"></iframe>
-</figure>
-<!-- blank line -->
+[![Xylophone App](https://res.cloudinary.com/marcomontalbano/image/upload/v1600273984/video_to_markdown/images/google-drive--18-CXGQ8mOCwJf1ZETrgOcdbC_GSaliHo-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/18-CXGQ8mOCwJf1ZETrgOcdbC_GSaliHo/preview "Xylophone App")
